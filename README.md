@@ -31,6 +31,6 @@ Instead of forcing my grandparents to learn a complicated CMS dashboard like Wor
 
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/yourusername/lapendery.git](https://github.com/yourusername/lapendery.git)
+   git clone [https://github.com/CatPowerz/lapendery.git](https://github.com/CatPowerz/lapendery.git)
    cd lapendery
    ```
